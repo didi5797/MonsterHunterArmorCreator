@@ -10,44 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26450499-24e0-4fc7-a3e1-9a38c016d0f4" name="Changes" comment="Alle Armor pieces">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MonsterHunter_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/App_start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorScraper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/CheckBoxListCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/HtmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/MonsterHunterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/MonsterHunterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/SkillParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Armor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Boni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Skills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Slot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armors/armorfile_helmet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/test.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/armor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/armorfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/armorfile_helmet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/saved_armor_sets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "didi5797"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/didi5797/MonsterHunterArmorCreator.git",
+    "accountId": "b4d720c7-acd6-4594-ad2c-cac79e3c3605"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -240,8 +216,25 @@
       <workItem from="1741614958218" duration="831000" />
       <workItem from="1743081439576" duration="2146000" />
       <workItem from="1743176093266" duration="2798000" />
-      <workItem from="1743185199727" duration="5718000" />
+      <workItem from="1743185199727" duration="7005000" />
     </task>
+    <task id="LOCAL-00001" summary="Alle Armor pieces">
+      <option name="closed" value="true" />
+      <created>1743191110972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743191110972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Alle Armor pieces">
+      <option name="closed" value="true" />
+      <created>1743191127221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743191127221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

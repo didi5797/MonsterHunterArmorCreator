@@ -125,6 +125,7 @@
                                 </tabs>
                               </TabPane>
                          </VBox>
+                           <Label layoutX="139.0" layoutY="569.0" prefHeight="40.0" prefWidth="335.0" text="\@CAPCOM CO:, LTD. All rights reserved. MONSTER HUNTER is a trademark or registered trademark of CAPCOM CO., LTD." textAlignment="CENTER" wrapText="true" />
                         </children></AnchorPane>
                </content>
              </Tab>
