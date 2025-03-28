@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26450499-24e0-4fc7-a3e1-9a38c016d0f4" name="Changes" comment="">
+    <list default="true" id="26450499-24e0-4fc7-a3e1-9a38c016d0f4" name="Changes" comment="Alle Armor pieces">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/MonsterHunter_jar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -240,11 +240,15 @@
       <workItem from="1741614958218" duration="831000" />
       <workItem from="1743081439576" duration="2146000" />
       <workItem from="1743176093266" duration="2798000" />
-      <workItem from="1743185199727" duration="5416000" />
+      <workItem from="1743185199727" duration="5718000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Alle Armor pieces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alle Armor pieces" />
   </component>
 </project>

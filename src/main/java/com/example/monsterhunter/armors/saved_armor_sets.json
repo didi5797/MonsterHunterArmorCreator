@@ -1,0 +1,34 @@
+[
+  {
+    "name": "bastard",
+    "head": "Hope Mask",
+    "torso": "Chatacabra Mail",
+    "arms": "Hope Vambraces",
+    "legs": "Chatacabra Greaves",
+    "waist": "Hope Coil"
+  },
+  {
+    "name": "asd",
+    "head": "Hope Mask",
+    "torso": "Chatacabra Mail",
+    "arms": "Hope Vambraces",
+    "legs": "Chatacabra Greaves",
+    "waist": "Hope Coil"
+  },
+  {
+    "name": "huso",
+    "head": "Hope Mask",
+    "torso": "Chatacabra Mail",
+    "arms": "Doshaguma Vambraces",
+    "legs": "Doshaguma Greaves",
+    "waist": "Hope Coil"
+  },
+  {
+    "name": "nope",
+    "head": "Chatacabra Helm",
+    "torso": "Chatacabra Mail",
+    "arms": "Balahara Vambraces",
+    "legs": "Doshaguma Greaves",
+    "waist": "Hope Coil"
+  }
+]
