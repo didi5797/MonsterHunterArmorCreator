@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="root" prefHeight="640.0" prefWidth="587.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.monsterhunter.MonsterHunterController">
+    <top>
+        <HBox>
+         <TabPane prefHeight="640.0" prefWidth="606.0" tabClosingPolicy="UNAVAILABLE">
+           <tabs>
+             <Tab text="Rüstung">
+               <content>
+                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="611.0" prefWidth="583.0">
+                        <children>
+                              <VBox layoutY="47.0" prefHeight="257.0" prefWidth="269.0" spacing="10" AnchorPane.bottomAnchor="307.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="318.0" AnchorPane.topAnchor="47.0">
+                                  <padding>
+                                      <Insets bottom="10.0" left="20.0" right="20.0" top="20.0" />
+                                  </padding>
+                                  <TextField fx:id="searchField" promptText="Search for armor or skill..." />
+                                  <ListView fx:id="searchResultsList" prefHeight="188.0" prefWidth="248.0" />
+                              </VBox>
+                              <Button layoutX="168.0" layoutY="25.0" onAction="#saveArmorSet" prefHeight="25.0" prefWidth="100.0" text="Set speichern" />
+                              <Button layoutX="22.0" layoutY="25.0" onAction="#loadArmorSets" prefHeight="25.0" prefWidth="100.0" text="Set laden" />
+                         <VBox alignment="TOP_RIGHT" layoutX="322.0" layoutY="304.0" spacing="3.0">
+                             <padding>
+                                 <Insets bottom="10.0" left="20.0" right="20.0" top="20.0" />
+                             </padding>
+                             <!--
+                             <Label fx:id="totalDefenseLabel" />
+                             <Label fx:id="fireResistanceLabel" />
+                             <Label fx:id="waterResistanceLabel" />
+                             <Label fx:id="thunderResistanceLabel" />
+                             <Label fx:id="iceResistanceLabel" />
+                             <Label fx:id="dragonResistanceLabel" />
+                             <Label fx:id="skillsLabel" />
+                             <Label fx:id="setbonusskillLabel" />
+                             <Label fx:id="groupskillLabel" />
+                             -->
+                             <TabPane prefHeight="245.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE">
+                                 <tabs>
+                                     <Tab text="Stats">
+                                         <content>
+                                             <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                 <children>
+                                                     <VBox alignment="CENTER" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                             <Label fx:id="totalDefenseLabel" text="defense" />
+                                                             <Label fx:id="fireResistanceLabel" />
+                                                             <Label fx:id="waterResistanceLabel" />
+                                                             <Label fx:id="thunderResistanceLabel" />
+                                                             <Label fx:id="iceResistanceLabel" />
+                                                             <Label fx:id="dragonResistanceLabel" />
+                                                         </children>
+                                                     </VBox>
+                                                 </children>
+                                             </AnchorPane>
+                                         </content>
+                                     </Tab>
+                                     <Tab text="Skills">
+                                         <content>
+                                             <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                 <children>
+                                                     <VBox alignment="CENTER" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                             <Label fx:id="skillsLabel" />
+                                                             <Label fx:id="setbonusskillLabel" />
+                                                             <Label fx:id="groupskillLabel" />
+                                                         </children>
+                                                     </VBox>
+                                                 </children>
+                                             </AnchorPane>
+                                         </content>
+                                     </Tab>
+                                 </tabs>
+                             </TabPane>
+                         </VBox>
+                         <VBox layoutX="14.0" layoutY="313.0" spacing="10">
+                             <padding>
+                                 <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                             </padding>
+                             <ComboBox fx:id="headCombo" promptText="Select Head Armor" />
+                             <ComboBox fx:id="torsoCombo" promptText="Select Torso Armor" />
+                             <ComboBox fx:id="armsCombo" promptText="Select Arms Armor" />
+                             <ComboBox fx:id="legsCombo" promptText="Select Legs Armor" />
+                             <ComboBox fx:id="waistCombo" promptText="Select Waist Armor" />
+                         </VBox>
+                         <VBox alignment="CENTER" layoutX="322.0" spacing="3.0">
+                             <padding>
+                                 <Insets bottom="10.0" left="20.0" right="20.0" top="20.0" />
+                             </padding>
+                              <Label fx:id="aktuellausgewahlt" layoutX="30.0" layoutY="30.0" text="akutell ausgewählt" />
+                             <Label fx:id="selectedArmorLabel" text="armor" />
+                              <TabPane prefHeight="245.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE">
+                                <tabs>
+                                  <Tab text="Stats">
+                                    <content>
+                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                             <children>
+                                                <VBox alignment="CENTER" prefHeight="200.0" prefWidth="200.0">
+                                                   <children>
+                                                     <Label fx:id="defenseLabel" />
+                                                     <Label fx:id="resistanceLabel" />
+                                                   </children>
+                                                </VBox>
+                                             </children>
+                                          </AnchorPane>
+                                    </content>
+                                  </Tab>
+                                  <Tab text="Skills">
+                                    <content>
+                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                             <children>
+                                                <VBox alignment="CENTER" prefHeight="200.0" prefWidth="200.0">
+                                                   <children>
+                                                     <Label fx:id="skillsDetailLabel" text="skills" />
+                                                     <Label fx:id="setbonusskillLabel_aktuell" text="setbonus" />
+                                                     <Label fx:id="groupskillLabel_aktuell" text="group" />
+                                                   </children>
+                                                </VBox>
+                                             </children>
+                                          </AnchorPane>
+                                    </content>
+                                  </Tab>
+                                </tabs>
+                              </TabPane>
+                         </VBox>
+                        </children></AnchorPane>
+               </content>
+             </Tab>
+             <Tab text="Im-/Export">
+               <content>
+                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                        <children>
+                              <ListView fx:id="armorSetListView" layoutX="123.0" layoutY="214.0" prefWidth="235.0" />
+                              <Button layoutX="287.0" layoutY="180.0" onAction="#exportArmorSets" text="Exportieren" />
+                              <Button layoutX="116.0" layoutY="180.0" onAction="#importArmorSets" text="Importieren" />
+                        </children></AnchorPane>
+               </content>
+             </Tab>
+           </tabs>
+         </TabPane>
+
+        </HBox>
+    </top>
+
+</BorderPane>

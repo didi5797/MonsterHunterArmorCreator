@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Main-Class: com.example.monsterhunter.App_start
+Class-Path: lifecycle-4.0.17.jar util-4.0.17.jar storage-4.0.17.jar java
+ fx-controls-21-win.jar tilesfx-11.48.jar controlsfx-11.1.2.jar jackson-
+ annotations-2.14.2.jar javafx-web-21.jar javafx-graphics-21-win.jar fxg
+ l-gameplay-17.3.jar javafx-fxml-21.jar bootstrapfx-core-0.4.0.jar javaf
+ x-base-21.jar javafx-swing-21.jar javafx-media-21-win.jar javafx-fxml-2
+ 1-win.jar jackson-core-2.14.2.jar javafx-base-21-win.jar fxgl-io-17.3.j
+ ar javafx-graphics-21.jar javafx-media-21.jar formsfx-core-11.6.0.jar j
+ soup-1.15.4.jar javafx-web-21-win.jar jackson-databind-2.14.2.jar fxgl-
+ scene-17.3.jar fxgl-17.3.jar gson-2.10.1.jar validatorfx-0.4.0.jar fxgl
+ -core-17.3.jar javafx-swing-21-win.jar audio-4.0.17.jar kotlin-stdlib-c
+ ommon-1.8.10.jar json-20231013.jar annotations-13.0.jar fxgl-entity-17.
+ 3.jar javafx-controls-21.jar kotlin-stdlib-1.8.10.jar
+

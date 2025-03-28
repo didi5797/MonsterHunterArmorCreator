@@ -1,0 +1,325 @@
+[
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Stamina_Surge",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Chatacabra Vambraces",
+        "resistances": [
+            1,
+            2,
+            -3,
+            -1,
+            1
+        ],
+        "type": "Arms"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Stun_Resistance",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Balahara Greaves",
+        "resistances": [
+            -1,
+            2,
+            -3,
+            1,
+            1
+        ],
+        "type": "Legs"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Recovery_Speed",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Chatacabra Greaves",
+        "resistances": [
+            1,
+            2,
+            -3,
+            -1,
+            1
+        ],
+        "type": "Legs"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Free_Meal",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Doshaguma Greaves",
+        "resistances": [
+            -3,
+            2,
+            -1,
+            -1,
+            4
+        ],
+        "type": "Legs"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Divine_Blessing",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Hope Greaves",
+        "resistances": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "type": "Legs"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Bombardier",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Balahara Coil",
+        "resistances": [
+            -1,
+            2,
+            -3,
+            1,
+            1
+        ],
+        "type": "Waist"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Speed_Eating",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Chatacabra Coil",
+        "resistances": [
+            1,
+            2,
+            -3,
+            -1,
+            1
+        ],
+        "type": "Waist"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Recovery_Speed",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Doshaguma Coil",
+        "resistances": [
+            -3,
+            2,
+            -1,
+            -1,
+            4
+        ],
+        "type": "Waist"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Stamina_Surge",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Hope Coil",
+        "resistances": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "type": "Waist"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Bombardier",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Balahara Vambraces",
+        "resistances": [
+            -1,
+            2,
+            -3,
+            1,
+            1
+        ],
+        "type": "Arms"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Stun_Resistance",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Hope Mask",
+        "resistances": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "type": "Head"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Recovery_Speed",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Doshaguma Vambraces",
+        "resistances": [
+            -3,
+            2,
+            -1,
+            -1,
+            4
+        ],
+        "type": "Arms"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Divine_Blessing",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Hope Vambraces",
+        "resistances": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "type": "Arms"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Stamina_Surge",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Balahara Mail",
+        "resistances": [
+            -1,
+            2,
+            -3,
+            1,
+            1
+        ],
+        "type": "Torso"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Speed_Eating",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Chatacabra Mail",
+        "resistances": [
+            1,
+            2,
+            -3,
+            -1,
+            1
+        ],
+        "type": "Torso"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Free_Meal",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Doshaguma Mail",
+        "resistances": [
+            -3,
+            2,
+            -1,
+            -1,
+            4
+        ],
+        "type": "Torso"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Divine_Blessing",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Hope Mail",
+        "resistances": [
+            1,
+            0,
+            1,
+            0,
+            0
+        ],
+        "type": "Torso"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Bombardier",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Balahara Helm",
+        "resistances": [
+            -1,
+            2,
+            -3,
+            1,
+            1
+        ],
+        "type": "Head"
+    },
+    {
+        "slots": [],
+        "bonis": [{
+            "skill": "Speed_Eating",
+            "skillevel": 1
+        }],
+        "defense": 6,
+        "name": "Chatacabra Helm",
+        "resistances": [
+            1,
+            2,
+            -3,
+            -1,
+            1
+        ],
+        "type": "Head"
+    }
+]

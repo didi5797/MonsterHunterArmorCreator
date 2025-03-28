@@ -1,0 +1,881 @@
+<tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Chatacabra Vambraces' data-src='https://img.game8.co/4101768/9e19c4d4a1d00faafed8513225e068d9.png/show' width='30' height='30' /> <b class='a-bold'>Chatacabra Vambraces</b>
+
+
+
+</td>
+<td class="center">Arms</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Stamina Surge
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Balahara Greaves' data-src='https://img.game8.co/4101769/b50b696a72a1abf55a3938b9f6007e01.png/show' width='30' height='30' /> <b class='a-bold'>Balahara Greaves</b>
+
+
+
+</td>
+<td class="center">Legs</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Stun Resistance
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Chatacabra Greaves' data-src='https://img.game8.co/4101769/b50b696a72a1abf55a3938b9f6007e01.png/show' width='30' height='30' /> <b class='a-bold'>Chatacabra Greaves</b>
+
+
+
+</td>
+<td class="center">Legs</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Recovery Speed
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Doshaguma Greaves' data-src='https://img.game8.co/4101769/b50b696a72a1abf55a3938b9f6007e01.png/show' width='30' height='30' /> <b class='a-bold'>Doshaguma Greaves</b>
+
+
+
+</td>
+<td class="center">Legs</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Free Meal
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  4</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Hope Greaves' data-src='https://img.game8.co/4101769/b50b696a72a1abf55a3938b9f6007e01.png/show' width='30' height='30' /> <b class='a-bold'>Hope Greaves</b>
+
+
+
+</td>
+<td class="center">Legs</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Divine Blessing
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  0</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Balahara Coil' data-src='https://img.game8.co/4101766/5cda0c816e18640e0db4e05a88905e3f.png/show' width='30' height='30' /> <b class='a-bold'>Balahara Coil</b>
+
+
+
+</td>
+<td class="center">Waist</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Bombardier
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Chatacabra Coil' data-src='https://img.game8.co/4101766/5cda0c816e18640e0db4e05a88905e3f.png/show' width='30' height='30' /> <b class='a-bold'>Chatacabra Coil</b>
+
+
+
+</td>
+<td class="center">Waist</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Speed Eating
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Doshaguma Coil' data-src='https://img.game8.co/4101766/5cda0c816e18640e0db4e05a88905e3f.png/show' width='30' height='30' /> <b class='a-bold'>Doshaguma Coil</b>
+
+
+
+</td>
+<td class="center">Waist</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Recovery Speed
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  4</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Hope Coil' data-src='https://img.game8.co/4101766/5cda0c816e18640e0db4e05a88905e3f.png/show' width='30' height='30' /> <b class='a-bold'>Hope Coil</b>
+
+
+
+</td>
+<td class="center">Waist</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Stamina Surge
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  0</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Balahara Vambraces' data-src='https://img.game8.co/4101768/9e19c4d4a1d00faafed8513225e068d9.png/show' width='30' height='30' /> <b class='a-bold'>Balahara Vambraces</b>
+
+
+
+</td>
+<td class="center">Arms</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Bombardier
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Hope Mask' data-src='https://img.game8.co/4101765/93773dfe76c5d3ac4c279918d324eab2.png/show' width='30' height='30' /> <b class='a-bold'>Hope Mask</b>
+
+
+
+</td>
+<td class="center">Head</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Stun Resistance
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  0</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Doshaguma Vambraces' data-src='https://img.game8.co/4101768/9e19c4d4a1d00faafed8513225e068d9.png/show' width='30' height='30' /> <b class='a-bold'>Doshaguma Vambraces</b>
+
+
+
+</td>
+<td class="center">Arms</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Recovery Speed
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  4</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Hope Vambraces' data-src='https://img.game8.co/4101768/9e19c4d4a1d00faafed8513225e068d9.png/show' width='30' height='30' /> <b class='a-bold'>Hope Vambraces</b>
+
+
+
+</td>
+<td class="center">Arms</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Divine Blessing
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  0</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Balahara Mail' data-src='https://img.game8.co/4101767/5e57ef0a4dbc2209ac2bcc130840a766.png/show' width='30' height='30' /> <b class='a-bold'>Balahara Mail</b>
+
+
+
+</td>
+<td class="center">Torso</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Stamina Surge
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Chatacabra Mail' data-src='https://img.game8.co/4101767/5e57ef0a4dbc2209ac2bcc130840a766.png/show' width='30' height='30' /> <b class='a-bold'>Chatacabra Mail</b>
+
+
+
+</td>
+<td class="center">Torso</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Speed Eating
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Doshaguma Mail' data-src='https://img.game8.co/4101767/5e57ef0a4dbc2209ac2bcc130840a766.png/show' width='30' height='30' /> <b class='a-bold'>Doshaguma Mail</b>
+
+
+
+</td>
+<td class="center">Torso</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Free Meal
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  4</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Hope Mail' data-src='https://img.game8.co/4101767/5e57ef0a4dbc2209ac2bcc130840a766.png/show' width='30' height='30' /> <b class='a-bold'>Hope Mail</b>
+
+
+
+</td>
+<td class="center">Torso</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Divine Blessing
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 0</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  0</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Balahara Helm' data-src='https://img.game8.co/4101765/93773dfe76c5d3ac4c279918d324eab2.png/show' width='30' height='30' /> <b class='a-bold'>Balahara Helm</b>
+
+
+
+</td>
+<td class="center">Head</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Bombardier
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Chatacabra Helm' data-src='https://img.game8.co/4101765/93773dfe76c5d3ac4c279918d324eab2.png/show' width='30' height='30' /> <b class='a-bold'>Chatacabra Helm</b>
+
+
+
+</td>
+<td class="center">Head</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Speed Eating
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> 1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  1</div>
+</td>
+</tr><tr>
+<td class="center">
+
+
+
+
+
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Doshaguma Helm' data-src='https://img.game8.co/4101765/93773dfe76c5d3ac4c279918d324eab2.png/show' width='30' height='30' /> <b class='a-bold'>Doshaguma Helm</b>
+
+
+
+</td>
+<td class="center">Head</td>
+
+<td>
+<b class='a-bold'>Base</b>: 6
+
+<hr class="a-table__line">
+<b class='a-bold'>Max</b>:
+
+<span class='a-red'>TBA</span>
+
+
+<td class="center">
+
+
+
+
+
+
+
+Free Meal
+
+
+Lv. 1
+
+</td>
+<td>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Fire Element' data-src='https://img.game8.co/3262440/3edcde7d69ae1a2f04531a40ee875b06.png/show' width='19' height='19' /> -3</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Water Element' data-src='https://img.game8.co/3262559/382ce6de65f7177ffbecbd2838145042.png/show' width='19' height='19' /> 2</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Thunder Element' data-src='https://img.game8.co/3262556/9c3c71d6fb7b9d38c8e769f838cbc470.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Ice Element' data-src='https://img.game8.co/3262561/130b220ba0be12d1ab22056fd53bab0f.png/show' width='19' height='19' /> -1</div>
+<div class='align'><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' class='a-img lazy' alt='Dragon Element' data-src='https://img.game8.co/3262557/04f579d4aed755e1be2660c4df863622.png/show' width='19' height='19' />  4</div>
+</td>
+</tr>

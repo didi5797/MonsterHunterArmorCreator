@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MonsterHunter:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26450499-24e0-4fc7-a3e1-9a38c016d0f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MonsterHunter_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/App_start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/ArmorSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/CheckBoxListCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/HtmlParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/MonsterHunterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/MonsterHunterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/SkillParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Boni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armorpieces/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/armors/armorfile_helmet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/monsterhunter/test.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/armor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/armorfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/armorfile_helmet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/monsterhunter/saved_armor_sets.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2raGRbvNbmcTTDIkoHuLdiZzrbU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App_start.executor": "Run",
+    "Application.ArmorScraper.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.HtmlParser.executor": "Run",
+    "Application.MonsterHunterApp.executor": "Run",
+    "Application.MonsterHunterParser.executor": "Run",
+    "Application.SkillParser.executor": "Run",
+    "Application.SkillsParser.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Uni/JPP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.28150874",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dennis\IdeaProjects\MonsterHunter\src\main\resources\com\example\monsterhunter" />
+      <recent name="C:\Users\dennis\IdeaProjects\MonsterHunter\src\main\java\com\example\monsterhunter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dennis\IdeaProjects\MonsterHunter\src\main\java\com\example\monsterhunter\armors" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MonsterHunterApp">
+    <configuration name="App_start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.monsterhunter.App_start" />
+      <module name="MonsterHunter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.monsterhunter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HtmlParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.monsterhunter.HtmlParser" />
+      <module name="MonsterHunter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.monsterhunter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonsterHunterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.monsterhunter.MonsterHunterApp" />
+      <module name="MonsterHunter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.monsterhunter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.monsterhunter.SkillParser" />
+      <module name="MonsterHunter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.monsterhunter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillsParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.monsterhunter.SkillsParser" />
+      <module name="MonsterHunter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.monsterhunter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App_start" />
+      <item itemvalue="Application.SkillParser" />
+      <item itemvalue="Application.SkillsParser" />
+      <item itemvalue="Application.HtmlParser" />
+      <item itemvalue="Application.MonsterHunterApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MonsterHunterApp" />
+        <item itemvalue="Application.SkillParser" />
+        <item itemvalue="Application.SkillsParser" />
+        <item itemvalue="Application.HtmlParser" />
+        <item itemvalue="Application.App_start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26450499-24e0-4fc7-a3e1-9a38c016d0f4" name="Changes" comment="" />
+      <created>1736789766587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736789766587</updated>
+      <workItem from="1736789767680" duration="698000" />
+      <workItem from="1738501005559" duration="13000" />
+      <workItem from="1739640361464" duration="4893000" />
+      <workItem from="1739708592080" duration="713000" />
+      <workItem from="1739730173251" duration="6111000" />
+      <workItem from="1739736313052" duration="1550000" />
+      <workItem from="1739904922958" duration="1244000" />
+      <workItem from="1740075891102" duration="5000" />
+      <workItem from="1740306302276" duration="11744000" />
+      <workItem from="1740319918994" duration="2291000" />
+      <workItem from="1740322223170" duration="455000" />
+      <workItem from="1740410139192" duration="3721000" />
+      <workItem from="1740428817310" duration="93000" />
+      <workItem from="1740489048057" duration="15218000" />
+      <workItem from="1740658721451" duration="15435000" />
+      <workItem from="1740693486909" duration="105000" />
+      <workItem from="1741468021259" duration="2158000" />
+      <workItem from="1741528358325" duration="4282000" />
+      <workItem from="1741603563579" duration="5000" />
+      <workItem from="1741614958218" duration="831000" />
+      <workItem from="1743081439576" duration="2146000" />
+      <workItem from="1743176093266" duration="2798000" />
+      <workItem from="1743185199727" duration="5416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
